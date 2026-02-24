@@ -1,4 +1,5 @@
-🍦 Ice Cream Flavor Preference Analysis
+**🍦 Ice Cream Flavor Preference Analysis**
+
 📌 Project Overview
 
 This project analyzes ice cream flavor preferences across different age groups using survey data collected through Google Forms. The goal was to identify which flavors are most popular among various age categories.
